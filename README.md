@@ -1,93 +1,102 @@
 # Prashant Meni
 
-Software developer focused on building practical, user-friendly digital experiences with a strong interest in frontend development, web applications, and problem-solving.
+<div align="center">
 
-I enjoy turning ideas into working products that are clean, responsive, and useful in the real world — from portfolio and business websites to inventory dashboards and smart systems.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Developer+%7C+Problem+Solver+%7C+Creator;Frontend+Engineering;Web+Applications+%7C+Practical+Innovation" alt="Typing SVG" />
 
-- 🔭 Current focus: building useful web experiences and practical project solutions
-- 🌱 Learning: modern frontend technologies, automation, and intelligent systems
-- 💡 Interests: frontend development, Python, UI/UX, and real-world application design
-- 📫 LinkedIn: [Prashant Meni](https://www.linkedin.com/in/prashant-meni-400548297)
+</div>
+
+I design and build practical, user-friendly digital experiences with a focus on clean interfaces, real-world problem solving, and product-oriented development.
+
+I enjoy turning ideas into experiences that are useful, visually polished, and easy to interact with — whether it's a portfolio, a management dashboard, or an intelligent system.
+
+- 🔭 Focus: frontend development, web applications, and product thinking
+- 🌱 Learning: modern web technologies, automation, and intelligent systems
+- 💡 Interests: UI/UX, responsive design, Python, and real-world problem solving
+- 📫 Connect: [LinkedIn](https://www.linkedin.com/in/prashant-meni-400548297)
 
 ---
 
 ## About Me
 
-I am a developer who enjoys creating products that are both functional and visually refined. My work combines design thinking, frontend implementation, and practical engineering to deliver experiences that are easy to use and reliable in real-world scenarios.
+I’m a developer who enjoys creating solutions that balance design, functionality, and usability. My work spans responsive web interfaces, dashboard tools, and project-driven applications built to solve meaningful problems.
 
-I have experience working on projects spanning:
+I value:
 
-- responsive web design
-- dashboard and management tools
-- static and dynamic web applications
-- Python-based system and automation projects
-- project architecture and product-oriented development
+- clean and maintainable code
+- thoughtful user experiences
+- practical engineering decisions
+- building projects with purpose
 
 ---
 
-## Featured Projects
+## Featured Work
 
 ### Autonomous Smart Farming Drone
-A Python-based agricultural drone system built around Raspberry Pi and PX4 integration for mission planning, flight monitoring, safety logic, and smart farming workflows.
+A Python-powered drone project focused on smart agriculture workflows, Raspberry Pi integration, PX4 communication, mission planning, and telemetry monitoring.
 
-- Tech stack: Python, Raspberry Pi, PX4, MAVLink, FastAPI
-- Focus: autonomous agriculture, telemetry, monitoring, system design
+- Tech: Python, Raspberry Pi, PX4, MAVLink, FastAPI
+- Focus: agriculture, autonomous systems, monitoring, architecture
 - Repository: [Autonomous_agridrone_drone](https://github.com/prashantmeni/Autonomous_agridrone_drone)
 
 ### Pharmacy Inventory Management System
-A pharmacy stock management dashboard for tracking medicines, stock quantity, expiration status, and inventory health using a lightweight web interface.
+A lightweight web application for tracking medicines, stock levels, expiry status, and inventory health with a clean dashboard interface.
 
-- Tech stack: HTML, CSS, JavaScript, LocalStorage, GitHub Pages
-- Focus: inventory tracking, dashboard UX, offline-friendly web apps
-- Live demo: [Open Application](https://prashantmeni.github.io/pharmacietucal_inventory/html/)
+- Tech: HTML, CSS, JavaScript, LocalStorage, GitHub Pages
+- Focus: inventory tracking, dashboard UX, offline-friendly tools
+- Live Demo: [Open Application](https://prashantmeni.github.io/pharmacietucal_inventory/html/)
 - Repository: [pharmacietucal_inventory](https://github.com/prashantmeni/pharmacietucal_inventory)
 
 ### Samskruti Kannada Club
-A static website designed for a Kannada cultural club, featuring event information, community content, and structured pages for showcasing club activities.
+A static club website designed to present events, community information, and branded content in a structured and visually engaging way.
 
-- Tech stack: HTML, CSS, static web design
-- Focus: community branding, event promotion, responsive presentation
+- Tech: HTML, CSS, static web design
+- Focus: community platforms, event promotion, responsive content layout
 - Repository: [Samskruti-Kannada-club-](https://github.com/prashantmeni/Samskruti-Kannada-club-)
 
 ### Personal Portfolio
-A personal portfolio website focused on presenting projects, skills, and design work in a clean, modern structure.
+A modern portfolio designed to showcase projects, skills, and personal branding through a polished and responsive interface.
 
-- Tech stack: HTML, CSS, JavaScript
-- Focus: personal branding, portfolio design, responsive presentation
+- Tech: HTML, CSS, JavaScript
+- Focus: portfolio design, branding, presentation
 - Repository: [Prashant-Portfolio](https://github.com/prashantmeni/Prashant-Portfolio)
 
 ---
 
-## Technical Skills
+## Skills
 
 ### Frontend
 - HTML5
 - CSS3
 - JavaScript
-- Responsive web design
-- UI/UX-focused layouts
+- Responsive Design
+- UI/UX-focused Development
 
-### Programming & Tools
+### Tools & Technologies
 - Python
 - Git & GitHub
 - VS Code
 - Raspberry Pi workflows
-- Deployment and project setup
+- Static site deployment
 
-### Core Strengths
-- problem solving
-- clean and maintainable code
-- practical product thinking
-- user-centered design
-- project-driven development
+### Strengths
+- Problem solving
+- Clean implementation
+- Product-oriented thinking
+- User-centric design
+- Project execution
 
 ---
 
-## GitHub Stats
+## GitHub Highlights
 
-![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashantmeni&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prashantmeni&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashantmeni&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantmeni&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
