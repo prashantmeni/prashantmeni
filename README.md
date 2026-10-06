@@ -1,74 +1,85 @@
-# Hi, I'm Prashant Meni 👋
+# Prashant Meni
 
-A developer focused on building useful, clean, and practical digital experiences for real-world problems.
+Software developer focused on building practical, user-friendly digital experiences with a strong interest in frontend development, web applications, and problem-solving.
 
-I enjoy working on projects that combine frontend design, web development, and problem-solving — from responsive portfolio websites to inventory dashboards and smart agricultural systems.
+I enjoy turning ideas into working products that are clean, responsive, and useful in the real world — from portfolio and business websites to inventory dashboards and smart systems.
 
-- 🔭 Currently building: practical and impactful projects with a focus on user experience and functionality
-- 🌱 Learning: modern web technologies, automation, and intelligent systems
-- 💡 Interests: frontend development, Python, project design, and solving real-world use cases
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/prashant-meni-400548297)
+- 🔭 Current focus: building useful web experiences and practical project solutions
+- 🌱 Learning: modern frontend technologies, automation, and intelligent systems
+- 💡 Interests: frontend development, Python, UI/UX, and real-world application design
+- 📫 LinkedIn: [Prashant Meni](https://www.linkedin.com/in/prashant-meni-400548297)
+
+---
+
+## About Me
+
+I am a developer who enjoys creating products that are both functional and visually refined. My work combines design thinking, frontend implementation, and practical engineering to deliver experiences that are easy to use and reliable in real-world scenarios.
+
+I have experience working on projects spanning:
+
+- responsive web design
+- dashboard and management tools
+- static and dynamic web applications
+- Python-based system and automation projects
+- project architecture and product-oriented development
 
 ---
 
 ## Featured Projects
 
-### 1) Autonomous Smart Farming Drone
-A Python-based agricultural drone project designed for Raspberry Pi + PX4 integration, mission planning, telemetry, and smart farming workflows.
+### Autonomous Smart Farming Drone
+A Python-based agricultural drone system built around Raspberry Pi and PX4 integration for mission planning, flight monitoring, safety logic, and smart farming workflows.
 
-- Tech: Python, Raspberry Pi, PX4, MAVLink, FastAPI, dashboard UI
-- Focus: autonomous agriculture, sensing, flight monitoring, system architecture
+- Tech stack: Python, Raspberry Pi, PX4, MAVLink, FastAPI
+- Focus: autonomous agriculture, telemetry, monitoring, system design
 - Repository: [Autonomous_agridrone_drone](https://github.com/prashantmeni/Autonomous_agridrone_drone)
 
-### 2) Pharmacy Inventory Management System
-A lightweight pharmacy stock management dashboard built with HTML, CSS, and JavaScript for tracking medicines, expiry dates, and inventory health.
+### Pharmacy Inventory Management System
+A pharmacy stock management dashboard for tracking medicines, stock quantity, expiration status, and inventory health using a lightweight web interface.
 
-- Tech: HTML, CSS, JavaScript, localStorage, GitHub Pages
-- Focus: inventory tracking, dashboard reporting, offline-friendly web app
-- Live Demo: [Open App](https://prashantmeni.github.io/pharmacietucal_inventory/html/)
+- Tech stack: HTML, CSS, JavaScript, LocalStorage, GitHub Pages
+- Focus: inventory tracking, dashboard UX, offline-friendly web apps
+- Live demo: [Open Application](https://prashantmeni.github.io/pharmacietucal_inventory/html/)
 - Repository: [pharmacietucal_inventory](https://github.com/prashantmeni/pharmacietucal_inventory)
 
-### 3) Samskruti Kannada Club
-A static club website showcasing events, information, and gallery content for a Kannada cultural/community platform.
+### Samskruti Kannada Club
+A static website designed for a Kannada cultural club, featuring event information, community content, and structured pages for showcasing club activities.
 
-- Tech: HTML, CSS, static web design
-- Focus: club branding, event promotion, responsive content layout
+- Tech stack: HTML, CSS, static web design
+- Focus: community branding, event promotion, responsive presentation
 - Repository: [Samskruti-Kannada-club-](https://github.com/prashantmeni/Samskruti-Kannada-club-)
 
-### 4) Personal Portfolio
-A personal portfolio website focused on presenting my projects, skills, and creative work in a clean and modern layout.
+### Personal Portfolio
+A personal portfolio website focused on presenting projects, skills, and design work in a clean, modern structure.
 
-- Tech: HTML, CSS, JavaScript
-- Focus: portfolio presentation, responsive design, personal branding
+- Tech stack: HTML, CSS, JavaScript
+- Focus: personal branding, portfolio design, responsive presentation
 - Repository: [Prashant-Portfolio](https://github.com/prashantmeni/Prashant-Portfolio)
 
 ---
 
-## Tech Stack
+## Technical Skills
 
 ### Frontend
 - HTML5
 - CSS3
 - JavaScript
-- Responsive Design
+- Responsive web design
 - UI/UX-focused layouts
 
-### Backend / Tools
+### Programming & Tools
 - Python
 - Git & GitHub
 - VS Code
 - Raspberry Pi workflows
-- Static site deployment
+- Deployment and project setup
 
----
-
-## What I Build
-
-- Responsive websites and landing pages
-- Dashboards and inventory tools
-- Project-based web apps with real-world functionality
-- Automation and smart systems using Python
-- Clean, user-friendly interfaces with practical UX
+### Core Strengths
+- problem solving
+- clean and maintainable code
+- practical product thinking
+- user-centered design
+- project-driven development
 
 ---
 
@@ -80,10 +91,10 @@ A personal portfolio website focused on presenting my projects, skills, and crea
 
 ---
 
-## Connect With Me
+## Connect
 
-- LinkedIn: [prashant-meni-400548297](https://www.linkedin.com/in/prashant-meni-400548297)
-- Portfolio: [prashantmeni.github.io/Prashant-Portfolio](https://prashantmeni.github.io/Prashant-Portfolio/)
 - GitHub: [@prashantmeni](https://github.com/prashantmeni)
+- LinkedIn: [Prashant Meni](https://www.linkedin.com/in/prashant-meni-400548297)
+- Portfolio: [Prashant Portfolio](https://prashantmeni.github.io/Prashant-Portfolio/)
 
-Thanks for visiting my GitHub profile! 🚀
+Thank you for visiting my profile.
